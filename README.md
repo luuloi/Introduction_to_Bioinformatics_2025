@@ -1,1 +1,1 @@
-# Introduction_to_Bioinformatics_2025
+# Introduction to Bioinformatics 2025
