@@ -8,5 +8,4 @@ Hướng dẫn cách làm bài tập:
   + Ở mỗi câu hỏi sẽ có yêu cầu làm về 3 loài sinh vật nhưng trong đó sinh vật có tên được tô đỏ được dùng làm ví dụ nên các bạn chỉ làm với 2 sinh vật còn lại (tên được tô đen).
   + Cách trình bày câu trả lời: Trình bày giống như ví dụ đã làm sẵn ở mỗi câu (xóa đi ví dụ trước khi nộp bài).
   + Phần "Thông tin thêm": Cung cấp thông tin sơ lược về các loài em đang làm (Đọc thêm cho biết. Không phải nội dung cần làm).
-  + Nộp bài tập lên SUBMIT_ASSIGNMENT đúng hạn
-- [SUBMIT ASSIGNMENT](https://forms.gle/kpfBX2ij8WqmWE5u5)
+  + Nộp bài tập lên [SUBMIT ASSIGNMENT](https://forms.gle/kpfBX2ij8WqmWE5u5) đúng hạn.
