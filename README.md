@@ -9,4 +9,4 @@ Hướng dẫn cách làm bài tập:
   + Cách trình bày câu trả lời: Trình bày giống như ví dụ đã làm sẵn ở mỗi câu (xóa đi ví dụ trước khi nộp bài).
   + Phần "Thông tin thêm": Cung cấp thông tin sơ lược về các loài em đang làm (Đọc thêm cho biết. Không phải nội dung cần làm).
   + Nộp bài tập lên SUBMIT_ASSIGNMENT đúng hạn
-- [SUBMIT ASSIGNMENT]
+- [SUBMIT ASSIGNMENT](https://forms.gle/kpfBX2ij8WqmWE5u5)
