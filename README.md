@@ -3,5 +3,9 @@
 ## Lecture 1 (15/06/2025):
 - [PDF](https://github.com/luuloi/Introduction_to_Bioinformatics_2025/blob/main/lecture_1/BI_L1_Introduction_1%20slide.pdf)
 - [PPTX](https://github.com/luuloi/Introduction_to_Bioinformatics_2025/blob/main/lecture_1/Lecture_overview_2025June15.pptx)
-- [HOMEWORK]
+- [HOMEWORK](https://docs.google.com/document/d/14HNZgMkHIMdSq10fiRocndonEhib3gK0/edit#heading=h.xcckyre9e6m6)
+Hướng dẫn cách làm bài tập:
+  + Ở mỗi câu hỏi sẽ có yêu cầu làm về 3 loài sinh vật nhưng trong đó sinh vật đầu tên (tên loài được tô đỏ) đã được làm ví dụ nên các bạn chỉ làm với 2 loài còn lại (tên loài được tô đen).
+  + Cách trình bày câu trả lời: Trình bày giống như ví dụ đã làm sẵn ở mỗi câu (xóa đi ví dụ khi nộp bài).
+  + Phần "Thông tin thêm": Cung cấp thông tin sơ lược về các loài em đang làm (Đọc thêm cho biết. Không phải nội dung cần làm). 
 - [SUBMIT ASSIGNMENT]
