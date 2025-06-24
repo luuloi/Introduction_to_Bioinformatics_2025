@@ -14,5 +14,5 @@ Hướng dẫn làm bài tập:
 
 
 ## Lecture 2 (21 + 22/06/2025):
--[PPTX Realtime-PCR](https://docs.google.com/presentation/d/1exyJvhkm2p17A-Ty0UqgxJcS-oh7GKdK/edit?usp=sharing&ouid=105596794084129468442&rtpof=true&sd=true)
--[HOMEWORK](https://docs.google.com/document/d/1p1NWWtmpnFcEgLhrAGajqWLQ_xdBKYt4/edit?usp=sharing&ouid=105596794084129468442&rtpof=true&sd=true)
+- [PPTX Realtime-PCR](https://docs.google.com/presentation/d/1exyJvhkm2p17A-Ty0UqgxJcS-oh7GKdK/edit?usp=sharing&ouid=105596794084129468442&rtpof=true&sd=true)
+- [HOMEWORK](https://docs.google.com/document/d/1p1NWWtmpnFcEgLhrAGajqWLQ_xdBKYt4/edit?usp=sharing&ouid=105596794084129468442&rtpof=true&sd=true)
