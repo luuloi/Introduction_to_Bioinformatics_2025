@@ -11,3 +11,8 @@ Hướng dẫn làm bài tập:
   + Cách trình bày câu trả lời: Trình bày giống như ví dụ đã làm sẵn ở mỗi câu (câu trả lời có thể bao gồm text hoặc hình ảnh capture hoặc vừa text vừa hình ảnh capture). **Lưu ý: Xóa đi ví dụ trước khi nộp bài**.
   + Phần "Thông tin thêm": Cung cấp thông tin sơ lược về các loài em đang làm (Đọc thêm cho biết. Không phải nội dung cần làm).
   + Nộp bài tập lên [SUBMIT ASSIGNMENT](https://forms.gle/kpfBX2ij8WqmWE5u5) đúng hạn (Deadline lecture 1: **21h00, 21/6/2025**).
+
+
+## Lecture 2 (21 + 22/06/2025):
+-[PPTX Realtime-PCR](https://docs.google.com/presentation/d/1exyJvhkm2p17A-Ty0UqgxJcS-oh7GKdK/edit?usp=sharing&ouid=105596794084129468442&rtpof=true&sd=true)
+-[HOMEWORK](https://docs.google.com/document/d/1p1NWWtmpnFcEgLhrAGajqWLQ_xdBKYt4/edit?usp=sharing&ouid=105596794084129468442&rtpof=true&sd=true)
