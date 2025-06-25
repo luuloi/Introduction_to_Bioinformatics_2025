@@ -16,3 +16,4 @@ Hướng dẫn làm bài tập:
 ## Lecture 2 (21 + 22/06/2025):
 - [PPTX Realtime-PCR](https://github.com/luuloi/Introduction_to_Bioinformatics_2025/blob/main/lecture_2/Realtime-PCR.pptx)
 - [HOMEWORK](https://docs.google.com/document/d/1p1NWWtmpnFcEgLhrAGajqWLQ_xdBKYt4/edit?usp=sharing&ouid=105596794084129468442&rtpof=true&sd=true)
+- [SUBMIT ASSIGNMENT](https://forms.gle/JjX5RXt5pxVr8uu57) (Deadline lecture 2: **21h00, 28/6/2025**).
